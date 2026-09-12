@@ -1,8 +1,7 @@
 # Hi, I'm Alfred Antony - Full Stack Developer
 
 I build production web applications end-to-end: Java/Spring Boot backends,
-React frontends, GraphQL APIs, and relational databases — with a growing focus
-on integrating LLM features into real products.
+React frontends, GraphQL APIs, and relational databases, with a growing focus on integrating LLM features into real products.
 
 ## What I do
 - **Backend:** Java (Spring Boot), GraphQL APIs, relational schema design (PostgreSQL/MySQL)
